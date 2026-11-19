@@ -1,0 +1,21 @@
+# Gradle / Android Studio
+.gradle/
+build/
+*/build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Outputs & signing
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Local data / secrets
+tools/scanner_master*.csv
+tools/adb.exe
+*.env
