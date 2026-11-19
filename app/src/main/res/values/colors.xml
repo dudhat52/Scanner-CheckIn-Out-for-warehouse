@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#1F2A44</color>
+    <color name="bg">#F4F6FA</color>
+    <color name="text">#111111</color>
+    <color name="muted">#5F6B7A</color>
+    <color name="ok">#2E7D32</color>
+    <color name="warn">#B26A00</color>
+    <color name="err">#C62828</color>
+    <color name="checkin">#1565C0</color>
+    <color name="checkout">#6A1B9A</color>
+    <color name="test">#FFB300</color>
+</resources>
